@@ -7,4 +7,4 @@ def solution(participant, completion):
         if participant[i] != completion[i]:
             answer = participant[i]
             break
-    return answer
+    retu지rn answer
