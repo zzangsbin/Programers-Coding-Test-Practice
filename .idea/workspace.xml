@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35f1df59-9f03-491d-8970-a06f828389ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programers Coding Test Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="92ced1e8-84bd-44e1-b841-c431fd022f13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/두번째.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/완주하 못한 선수 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/완주하지 못한 선수 100.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="23NQRV0RBoZVSjrhsfZWD3Frmuh" />
+  <component name="ProjectId" id="23NTXIr8wnbCWDjPy6bE9mViap4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -41,11 +39,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35f1df59-9f03-491d-8970-a06f828389ae" name="Changes" comment="" />
-      <created>1641572057551</created>
+      <changelist id="92ced1e8-84bd-44e1-b841-c431fd022f13" name="Changes" comment="" />
+      <created>1641573582891</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641572057551</updated>
+      <updated>1641573582891</updated>
     </task>
     <servers />
   </component>
